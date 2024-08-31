@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+main {
+    padding: 20px;
+    background-color: #e281fa;
+    background-image: linear-gradient(150deg, #e4cdf5,#ddb5f7,#c87ff8, #770ff7);
+}
+
+
+.testi{
+    font: bolder;
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 20px;
+    background-color: #f3ec78;
+    background-image: linear-gradient(5deg, #f3ec78,#51f14e, #eb2e64);
+    background-image: conic-gradient(#f1c832,#ef8b09,#ef0c54, #87052a);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+ 
+}
+
+.quote{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/*
+#testimonials .testimonial {
+    border: 2px solid #a09f9f;
+    border-style: groove;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+*/
+#call-to-action {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+#download-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#download-btn a{
+    text-decoration: none;
+    color: #333;
+}
+.sec1{
+    display: flex;
+   
+    margin-right: 20px;
+    
+}
+.secc1{
+  
+    margin-left: 25%;
+    margin-right: 10%;
+    
+    
+}
+
+
+.sec2{
+    display: flex;
+   
+    margin-right: 20px;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
